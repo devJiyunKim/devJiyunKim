@@ -14,8 +14,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>
-##### 🙌 About me
-<a href="www.linkedin.com/in/jiyunkimprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+
 
 
 
@@ -24,7 +23,8 @@
 
 
 <!--
-
+##### 🙌 About me
+<a href="www.linkedin.com/in/jiyunkimprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="github.com/devJiyunKim" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="github.com/devJiyunKim" target="_blank"><img src="https://img.shields.io/badge/Kakao Talk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
 
