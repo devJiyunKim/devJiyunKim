@@ -1,4 +1,4 @@
-### Hi, I'm Jiyun Kim.
+## Hi, I'm Jiyun Kim.
 
 📌 I'm looking for a job as **Web publishser.**  
 🌱 I’m currently learning Vanila JS and React.js over in [Nomad Coders](https://nomadcoders.co/)  
