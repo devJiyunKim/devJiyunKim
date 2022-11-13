@@ -1,7 +1,7 @@
 ## Hi, I'm Jiyun Kim.
 
 📌 I'm **Web publisher.**  
-🌱 I’m currently learning **Vanila JS and React.js.** ([Nomad Coders](https://nomadcoders.co/))  
+🌱 I’m currently learning **Vanila JS.** ([Nomad Coders](https://nomadcoders.co/))  
 📫 How to reach me: kimjiyoon28@gmail.com
  
 #### ⚒️ Languages and Tools I use
