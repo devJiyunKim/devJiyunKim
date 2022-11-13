@@ -1,6 +1,6 @@
 ## Hi, I'm Jiyun Kim.
 
-📌 I'm looking for a job as **Frontend developer**  
+📌 I'm **Web publisher**  
 🌱 I’m currently learning **Vanila JS and React.js** ([Nomad Coders](https://nomadcoders.co/))  
 📫 How to reach me: kimjiyoon28@gmail.com
  
